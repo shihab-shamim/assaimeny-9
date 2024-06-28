@@ -1,0 +1,56 @@
+ [
+      {
+        "id": 1,
+        "estate_title": "Luxury Beach Resort",
+        "segment_name": "Beach Resort",
+        "description": "Experience luxury at its finest with our beachfront resort.",
+        "price": 500,
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Maldives",
+        "facilities": ["Private Beach", "Infinity Pool", "Spa"],
+        "image": "https://i.ibb.co/Y8N97bB/umbrella-chair.jpg",
+        "view_property_button": true
+      },
+      {
+        "id": 2,
+        "estate_title": "Mountain Chalet Retreat",
+        "segment_name": "Mountain Chalet",
+        "description": "Escape to the mountains and enjoy a cozy chalet retreat.",
+        "price": 300,
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Switzerland",
+        "facilities": ["Fireplace", "Jacuzzi", "Ski-in/Ski-out Access"],
+        "image": "https://i.ibb.co/PxPzqXh/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table.jpg",
+        "view_property_button": true
+      },
+      {
+        "id": 3,
+        "estate_title": "Tropical Island Villa",
+        "segment_name": "Island Villa",
+        "description": "Indulge in paradise with our luxurious tropical island villa.",
+        "price": 700,
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Bali",
+        "facilities": ["Ocean View", "Private Pool", "Garden"],
+        "image": "https://i.ibb.co/4WSPN62/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge.jpg",
+        "view_property_button": true
+      },
+      {
+        "id": 4,
+        "estate_title": "Ski Resort Lodge",
+        "segment_name": "Ski Resort",
+        "description": "Embrace winter wonderland in our cozy ski resort lodge.",
+        "price": 400,
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "Canada",
+        "facilities": ["Ski Storage", "Hot Tub", "Restaurant"],
+        "image": "https://i.ibb.co/7bDhgr4/beautiful-swimming-pool-resort.jpg",
+        "view_property_button": true
+      }
+    ]
+  
+  
